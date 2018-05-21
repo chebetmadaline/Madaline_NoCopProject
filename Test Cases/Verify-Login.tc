@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify-Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ede5248-1816-4f82-8207-e4013f3295f7</testCaseGuid>
+   <variable>
+      <defaultValue>'mchebet@gmail.com'</defaultValue>
+      <description></description>
+      <id>db145319-02ce-4239-9609-4eaa69bc0be7</id>
+      <masked>false</masked>
+      <name>Variable_Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0700622412'</defaultValue>
+      <description></description>
+      <id>dbc10f4d-1671-4043-8adf-887990d7579a</id>
+      <masked>false</masked>
+      <name>Variable_Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://demo.nopcommerce.com'</defaultValue>
+      <description></description>
+      <id>0cbfb677-6ca4-4a49-870e-a1d1020fae7e</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Flower Girl Bracelet'</defaultValue>
+      <description></description>
+      <id>434d19a0-b514-4b3e-819f-fd2191f90c58</id>
+      <masked>false</masked>
+      <name>flower</name>
+   </variable>
+   <variable>
+      <defaultValue>'Nokia Lumia'</defaultValue>
+      <description></description>
+      <id>5b492a28-f200-4481-8226-65ad92ff90cc</id>
+      <masked>false</masked>
+      <name>Lumia</name>
+   </variable>
+</TestCaseEntity>

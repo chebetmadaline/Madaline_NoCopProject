@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify-Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5eb070db-4973-4e35-b5ac-96eea4cc2c2d</testCaseGuid>
+   <variable>
+      <defaultValue>'http://demo.nopcommerce.com'</defaultValue>
+      <description></description>
+      <id>7e0531b7-8031-4c29-a239-7454dc4dc159</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'mchebet@gmail.com'</defaultValue>
+      <description></description>
+      <id>b8aa689f-65f4-4e37-b799-fb4569213a3c</id>
+      <masked>false</masked>
+      <name>variable_mail</name>
+   </variable>
+   <variable>
+      <defaultValue>'0700622412'</defaultValue>
+      <description></description>
+      <id>9d33766a-23de-442b-bf92-ff4e6ad70f01</id>
+      <masked>false</masked>
+      <name>variable_password</name>
+   </variable>
+</TestCaseEntity>

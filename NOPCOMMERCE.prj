@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>NOPCOMMERCE</name>
+   <tag></tag>
+   <UUID>09f57ada-8171-4c58-88d1-6fac77245c32</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

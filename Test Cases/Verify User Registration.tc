@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify User Registration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>581739d7-332d-4358-b7b6-5eac08297f91</testCaseGuid>
+   <variable>
+      <defaultValue>'http://demo.nopcommerce.com'</defaultValue>
+      <description></description>
+      <id>fff061d4-f143-4042-af66-33ea06f48d9a</id>
+      <masked>false</masked>
+      <name>URl_NoCommerce</name>
+   </variable>
+   <variable>
+      <defaultValue>'Madaline'</defaultValue>
+      <description></description>
+      <id>120efe99-f9cd-4d39-9001-5cc313ad8b80</id>
+      <masked>false</masked>
+      <name>Variable_FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Chebet'</defaultValue>
+      <description></description>
+      <id>566f963e-ce68-4834-ba03-060ffe1a89b8</id>
+      <masked>false</masked>
+      <name>Variable_LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'mchebet@gmail.com'</defaultValue>
+      <description></description>
+      <id>3683b202-c10f-4adc-be6b-345d6c20a07c</id>
+      <masked>false</masked>
+      <name>Variable_Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fruited'</defaultValue>
+      <description></description>
+      <id>7925deef-4dbe-4c05-bc3e-6cc10473c92d</id>
+      <masked>false</masked>
+      <name>Variable_CompanyName</name>
+   </variable>
+   <variable>
+      <defaultValue>'0700622412'</defaultValue>
+      <description></description>
+      <id>ef8f778e-14db-4898-8f9d-50aee5ea3d1b</id>
+      <masked>false</masked>
+      <name>Variable_Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'0700622412'</defaultValue>
+      <description></description>
+      <id>a2809427-25a7-4546-be3b-00fd8cab0e66</id>
+      <masked>false</masked>
+      <name>Variable_ConfirmPassword</name>
+   </variable>
+</TestCaseEntity>
